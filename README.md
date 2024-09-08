@@ -17,13 +17,11 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code Snippets to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Code Snippets to Copy](#snippets)
+5. 🔗 [Assets](#links)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -41,21 +39,21 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
+**Authentication**: An ultra-secure SSR authentication with proper validations and authorization
 
-👉 **Connect Banks**: Integrates with Plaid for multiple bank account linking
+**Connect Banks**: Integrates with Plaid for multiple bank account linking
 
-👉 **Home Page**: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
+ **Home Page**: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
 
-👉 **My Banks**: Check the complete list of all connected banks with respective balances, account details
+**My Banks**: Check the complete list of all connected banks with respective balances, account details
 
-👉 **Transaction History**: Includes pagination and filtering options for viewing transaction history of different banks
+ **Transaction History**: Includes pagination and filtering options for viewing transaction history of different banks
 
-👉 **Real-time Updates**: Reflects changes across all relevant pages upon connecting new bank accounts.
+ **Real-time Updates**: Reflects changes across all relevant pages upon connecting new bank accounts.
 
-👉 **Funds Transfer**: Allows users to transfer funds using Dwolla to other accounts with required fields and recipient bank ID.
+**Funds Transfer**: Allows users to transfer funds using Dwolla to other accounts with required fields and recipient bank ID.
 
-👉 **Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
+**Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
 
 and many more, including code architecture and reusability. 
 
@@ -118,7 +116,7 @@ DWOLLA_ENV=sandbox
 
 ```
 
-Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Appwrite](https://appwrite.io/?utm_source=youtube&utm_content=reactnative&ref=JSmastery), [Plaid](https://plaid.com/) and [Dwolla](https://www.dwolla.com/)
+Replace the placeholder values with your actual respective account credentials. You can obtain these credentials by signing up on the [Appwrite](https://appwrite.com/), [Plaid](https://plaid.com/) and [Dwolla](https://www.dwolla.com/)
 
 **Running the Project**
 
